@@ -1,0 +1,10 @@
+name: weather_forecast
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.4
+  weatherapi: ^1.0.3
+  
+
+environment:
+  sdk: '^3.2.0'
